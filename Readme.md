@@ -1,1 +1,1 @@
-Live app at: https://nexter-drd.herokuapp.com/
+Live app at: https://trillo-drd.herokuapp.com/
